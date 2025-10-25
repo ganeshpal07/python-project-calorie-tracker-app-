@@ -1,0 +1,35 @@
+__________________________________________
+   Welcome to the Daily Calorie Tracker!   
+__________________________________________
+This tool helps you log your meals, calculate your total
+and average calories, and check if you're within your daily limit.
+
+How many meals would you like to log today? 3
+
+Meal 1:
+Enter meal name (e.g., Breakfast): tea
+Enter calorie amount: 25
+
+Meal 2:
+Enter meal name (e.g., Breakfast): chilli potato 
+Enter calorie amount: 70
+
+Meal 3:
+Enter meal name (e.g., Breakfast): fried rice
+Enter calorie amount: 40
+
+Enter your daily calorie limit: 200
+
+
+========= DAILY CALORIE SUMMARY =========
+Meal Name	Calories
+------------------------------------------
+tea         	25.0
+chilli potato 	70.0
+fried rice  	40.0
+__________________________________________
+Total:		135.0
+Average:	45.00
+_________________________________________ 
+great job! You are within your daily calorie limit.
+==========================================
